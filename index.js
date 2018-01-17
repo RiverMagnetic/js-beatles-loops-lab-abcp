@@ -7,13 +7,13 @@ return whoPlaysWhat
 }
 
 function johnLennonFacts(facts) {
-  var i = 0;
-  var loudFacts = [];
+  var i = 0
+  var loudFacts = []
   while (i < facts.length) {
-  loudFacts.push((facts[i]) + "!!!");
-  (i++);
+  loudFacts.push((facts[i]) + "!!!")
+  i++
 }
-return loudFacts;
+return loudFacts
 }
 
 function iLoveTheBeatles (n){
