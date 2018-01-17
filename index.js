@@ -14,11 +14,11 @@ const facts = [
 ]
 
 function johnLennonFacts(facts) {
-  var i = 0
-  var loudFacts = []
+  var i = 0;
+  var loudFacts = [];
   while (i < 3) {
   loudFacts.push((facts[i]) + "!!!");
-  (i++)
+  (i++);
 }
-return loudFacts
+return loudFacts;
 }
