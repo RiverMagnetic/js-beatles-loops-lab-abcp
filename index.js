@@ -17,9 +17,12 @@ return loudFacts;
 }
 
 function iLoveTheBeatles (n){
+  {
   var loveBeatles = []
   do {
     loveBeatles.push('I love the Beatles!')
     n++
   } while (n < 15)
-} return 
+} return loveBeatles
+  
+}
