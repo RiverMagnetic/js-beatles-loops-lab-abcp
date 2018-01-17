@@ -1,4 +1,4 @@
-function theBeatlesPlay (musicians, instruments) {
+function theBeatlesPlay(musicians, instruments) {
   var whoPlaysWhat = [] 
   for (var i = 0; i < 4; i++) {
   whoPlaysWhat.push((musicians[i]) +" plays " + (instruments[i]))
@@ -13,7 +13,7 @@ const facts = [
   "He hated the sound of his own voice"
 ]
 
-function johnLennonFacts (facts) {
+function johnLennonFacts(facts) {
   var i = 0
   var loudFacts = []
   while (i < 4) {
