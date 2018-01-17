@@ -16,7 +16,7 @@ function johnLennonFacts(facts) {
 return loudFacts
 }
 
-function iLoveTheBeatles (n)
+function iLoveTheBeatles (n){
   {
   var loveBeatles = []
   do {
@@ -24,3 +24,4 @@ function iLoveTheBeatles (n)
     n++
   } while (n < 15)
 } return loveBeatles
+}
