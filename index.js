@@ -17,5 +17,6 @@ return loudFacts;
 }
 
 function iLoveTheBeatles (n){
-  var array
+  var loveBeatles = []
+  do 
 }
